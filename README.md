@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1672ca51-f7bf-4991-9ac1-2fee4919c9e7">
+<img src="https://github.com/user-attachments/assets/59e11098-5051-4a94-a048-c14395754e9a">
 </p>
